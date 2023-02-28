@@ -1,38 +1,39 @@
 class script(object):
     START_TXT = """ʜᴀɪ {},
 ᴍʏ ɴᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>, ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ 😍"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+    HELP_TXT = """ʜᴀɪ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs."""
     ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/TechMagazineYT>TechMagazine</a>
+✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Nikitha_Mohan_14>ɴɪᴋɪᴛʜᴀ ᴍᴏʜᴀɴ 🇮🇳</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴍᴀʟᴀʏᴀʟᴀᴍ & ᴇɴɢʟɪsʜ
 ✯ ᴅᴀᴛᴀ ʙᴀsᴇ: ᴍᴏɴɢᴏ ᴅʙ
 ✯ ʙᴏᴛ sᴇʀᴠᴇʀ: ᴋᴏʏᴇʙ
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v1.0.1 [ ʙᴇᴛᴀ ]"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:</b>
-- TechMagazine-AutoFilterBot is a open source project. 
-- Source - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
+- ᴀᴜᴛᴏғɪʟᴛᴇʀʙᴏᴛ ɪs ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. 
+- sᴏᴜʀᴄᴇ - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
 
-<b>DEVS:</b>
-- <a href=https://t.me/TechMagazineYT>TechMagazine</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+<b>ᴏᴡɴᴇʀ:</b>
+- <a href=https://t.me/Nikitha_Mohan_14>ɴɪᴋɪᴛʜᴀ ᴍᴏʜᴀɴ 🇮🇳</a>"""
+    MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ғɪʟᴛᴇʀs</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- ғɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ʟɪsᴀ ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪs ғᴏᴜɴᴅ ᴛʜᴇ ᴍᴇssᴀɢᴇ
 
-<b>NOTE:</b>
-1. TechMagazine-AutoFilterBot should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+<b>ɴᴏᴛᴇ:</b>
+⑴. ʟɪsᴀ ᴀᴜᴛᴏғɪʟᴛᴇʀʙᴏᴛ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+⑵. ᴏɴʟʏ ᴀᴅᴍɪɴs ᴄᴀɴ ᴀᴅᴅ ғɪʟᴛᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ.
+⑶. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴs ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏғ 64 ᴄʜᴀʀᴀᴄᴛᴇʀs.
 
-<b>Commands and Usage:</b>
+<b>Cᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴀɢᴇ:</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴs</b>
 
-- TechMagazine-AutoFilterBot Supports both url and alert inline buttons.
+- ʟɪsᴀ ᴀᴜᴛᴏғɪʟᴛᴇʀʙᴏᴛ sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴs.
+
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
