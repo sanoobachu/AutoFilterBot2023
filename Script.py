@@ -34,7 +34,6 @@ class script(object):
 
 - ʟɪsᴀ ᴀᴜᴛᴏғɪʟᴛᴇʀʙᴏᴛ sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴs.
 
-
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 2. TechMagazine-AutoFilterBot supports buttons with any telegram media type.
